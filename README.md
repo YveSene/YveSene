@@ -1,7 +1,7 @@
 
 <h1 style="color:darkblue;">Hi 👋, I'm Yvenson Senephard</h1>
 <h3>I am interested in software development and Data Science</h3>
-<img align="right" alt="YvensondataAnalysis" Width="400" src="https://i.postimg.cc/g0Kxtk9W/data-analysis-4.gif"> <br /><br />
+<img align="right" alt="YvensondataAnalysis" Width="400" src="https://i.postimg.cc/jjxKbwD0/Prog-1.gif"> <br /><br />
 
 <h3>ﾟ✧Top Skillsﾟ✧ </h3>
 <p>
